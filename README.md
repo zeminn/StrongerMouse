@@ -1,4 +1,4 @@
-# StrongerMouse
+# StrongerMouse：罗技鼠标宏
 基于lua脚本的鼠标自动下压，适用于PUBG的压枪辅助
 
 内含6把枪械的下压数据，能方便地调整参数和开关功能。  
